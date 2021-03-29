@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Data science portfolio</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-03-29T17:42:28-03:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>jsaguiar</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Projects for Udacity ML Nanodegree</title>
+   <link href="http://localhost:4000/development/2021/03/28/ml-nanodegree.html"/>
+   <updated>2021-03-28T18:00:00-03:00</updated>
+   <id>http://localhost:4000/development/2021/03/28/ml-nanodegree</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RNN Model - OpenVaccine Competition</title>
+   <link href="http://localhost:4000/development/2020/07/20/rnn-open-vaccine.html"/>
+   <updated>2020-07-20T12:56:00-03:00</updated>
+   <id>http://localhost:4000/development/2020/07/20/rnn-open-vaccine</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Object Detection - Wheat Head</title>
+   <link href="http://localhost:4000/development/2020/01/07/wheat-object-detection.html"/>
+   <updated>2020-01-07T18:00:00-03:00</updated>
+   <id>http://localhost:4000/development/2020/01/07/wheat-object-detection</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Telco Churn Data Analysis</title>
+   <link href="http://localhost:4000/development/2020/01/07/telco.html"/>
+   <updated>2020-01-07T18:00:00-03:00</updated>
+   <id>http://localhost:4000/development/2020/01/07/telco</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Permutation Flowshop Algorithm</title>
+   <link href="http://localhost:4000/development/2020/01/07/pfsp.html"/>
+   <updated>2020-01-07T18:00:00-03:00</updated>
+   <id>http://localhost:4000/development/2020/01/07/pfsp</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ML Algorithms From Scratch</title>
+   <link href="http://localhost:4000/development/2020/01/07/ml-from-scratch.html"/>
+   <updated>2020-01-07T18:00:00-03:00</updated>
+   <id>http://localhost:4000/development/2020/01/07/ml-from-scratch</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Seismic Data Analysis</title>
+   <link href="http://localhost:4000/development/2019/02/01/seismic-data-analysis.html"/>
+   <updated>2019-02-01T19:00:00-02:00</updated>
+   <id>http://localhost:4000/development/2019/02/01/seismic-data-analysis</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two Sigma Stock Market Prediction</title>
+   <link href="http://localhost:4000/development/2019/01/01/two-sigma-baseline.html"/>
+   <updated>2019-01-01T19:00:00-02:00</updated>
+   <id>http://localhost:4000/development/2019/01/01/two-sigma-baseline</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Home Credit Default Competition</title>
+   <link href="http://localhost:4000/development/2018/10/20/home-credit.html"/>
+   <updated>2018-10-20T11:15:00-03:00</updated>
+   <id>http://localhost:4000/development/2018/10/20/home-credit</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Brazilian DS Market</title>
+   <link href="http://localhost:4000/development/2016/02/20/brazilian-market-eda.html"/>
+   <updated>2016-02-20T19:15:00-02:00</updated>
+   <id>http://localhost:4000/development/2016/02/20/brazilian-market-eda</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
