@@ -3,19 +3,19 @@
   <channel>
     <title>Data science portfolio</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Mar 2021 17:42:28 -0300</pubDate>
-    <lastBuildDate>Mon, 29 Mar 2021 17:42:28 -0300</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Oct 2021 18:04:05 -0300</pubDate>
+    <lastBuildDate>Mon, 11 Oct 2021 18:04:05 -0300</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Projects for Udacity ML Nanodegree</title>
+        <title>Capstone: Customer Lifetime Revenue</title>
         <description>
 </description>
-        <pubDate>Sun, 28 Mar 2021 18:00:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2021/03/28/ml-nanodegree.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2021/03/28/ml-nanodegree.html</guid>
+        <pubDate>Thu, 30 Sep 2021 18:00:00 -0300</pubDate>
+        <link>/development/2021/09/30/nanodegree-capstone.html</link>
+        <guid isPermaLink="true">/development/2021/09/30/nanodegree-capstone.html</guid>
         
         <category>aws</category>
         
@@ -25,7 +25,7 @@
         
         <category>lambda</category>
         
-        <category>nlp</category>
+        <category>glue</category>
         
         
         <category>development</category>
@@ -37,8 +37,8 @@
         <description>
 </description>
         <pubDate>Mon, 20 Jul 2020 12:56:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2020/07/20/rnn-open-vaccine.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/07/20/rnn-open-vaccine.html</guid>
+        <link>/development/2020/07/20/rnn-open-vaccine.html</link>
+        <guid isPermaLink="true">/development/2020/07/20/rnn-open-vaccine.html</guid>
         
         <category>Tensorflow</category>
         
@@ -56,8 +56,8 @@
         <description>
 </description>
         <pubDate>Tue, 07 Jan 2020 18:00:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2020/01/07/wheat-object-detection.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/01/07/wheat-object-detection.html</guid>
+        <link>/development/2020/01/07/wheat-object-detection.html</link>
+        <guid isPermaLink="true">/development/2020/01/07/wheat-object-detection.html</guid>
         
         <category>image</category>
         
@@ -77,8 +77,8 @@
         <description>
 </description>
         <pubDate>Tue, 07 Jan 2020 18:00:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2020/01/07/telco.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/01/07/telco.html</guid>
+        <link>/development/2020/01/07/telco.html</link>
+        <guid isPermaLink="true">/development/2020/01/07/telco.html</guid>
         
         <category>eda</category>
         
@@ -96,8 +96,8 @@
         <description>
 </description>
         <pubDate>Tue, 07 Jan 2020 18:00:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2020/01/07/pfsp.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/01/07/pfsp.html</guid>
+        <link>/development/2020/01/07/pfsp.html</link>
+        <guid isPermaLink="true">/development/2020/01/07/pfsp.html</guid>
         
         <category>python</category>
         
@@ -119,8 +119,8 @@
         <description>
 </description>
         <pubDate>Tue, 07 Jan 2020 18:00:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2020/01/07/ml-from-scratch.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/01/07/ml-from-scratch.html</guid>
+        <link>/development/2020/01/07/ml-from-scratch.html</link>
+        <guid isPermaLink="true">/development/2020/01/07/ml-from-scratch.html</guid>
         
         <category>python</category>
         
@@ -140,8 +140,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Feb 2019 19:00:00 -0200</pubDate>
-        <link>http://localhost:4000/development/2019/02/01/seismic-data-analysis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2019/02/01/seismic-data-analysis.html</guid>
+        <link>/development/2019/02/01/seismic-data-analysis.html</link>
+        <guid isPermaLink="true">/development/2019/02/01/seismic-data-analysis.html</guid>
         
         <category>eda</category>
         
@@ -161,8 +161,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 19:00:00 -0200</pubDate>
-        <link>http://localhost:4000/development/2019/01/01/two-sigma-baseline.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2019/01/01/two-sigma-baseline.html</guid>
+        <link>/development/2019/01/01/two-sigma-baseline.html</link>
+        <guid isPermaLink="true">/development/2019/01/01/two-sigma-baseline.html</guid>
         
         <category>boosting</category>
         
@@ -180,8 +180,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Oct 2018 11:15:00 -0300</pubDate>
-        <link>http://localhost:4000/development/2018/10/20/home-credit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2018/10/20/home-credit.html</guid>
+        <link>/development/2018/10/20/home-credit.html</link>
+        <guid isPermaLink="true">/development/2018/10/20/home-credit.html</guid>
         
         <category>boosting</category>
         
@@ -201,8 +201,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 19:15:00 -0200</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/brazilian-market-eda.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/brazilian-market-eda.html</guid>
+        <link>/development/2016/02/20/brazilian-market-eda.html</link>
+        <guid isPermaLink="true">/development/2016/02/20/brazilian-market-eda.html</guid>
         
         <category>eda</category>
         
